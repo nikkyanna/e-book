@@ -1,0 +1,27 @@
+.book-list-container {
+  border-bottom: 1px solid #d4cdce;
+  font-weight: 400;
+  background-color: #dfdfe1;
+  cursor: pointer;
+  word-wrap: break-word;
+}
+
+.book-list-container-selected {
+  padding: 15px;
+}
+
+.book-list {
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+
+.book-list::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 5px;
+  background-color: #d4cdce;
+}
+
+.book-list::-webkit-scrollbar-thumb {
+  background-color: #c1c1c1;
+  border-radius: 5px;
+}

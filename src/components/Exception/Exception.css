@@ -1,0 +1,9 @@
+.exception-container {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.exception-container .exception-text{
+    align-self: center;
+}

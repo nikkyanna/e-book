@@ -1,0 +1,29 @@
+.book-content-title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 0px;
+}
+
+.book-content {
+  padding: 20px;
+  height: calc(100vh - 270px);
+  overflow-y: auto;
+}
+
+.text-image-container .image-icons {
+  height: 20px;
+  padding-left: 30px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.text-image-container .text-title {
+  vertical-align: middle;
+}
+
+.book-content-add {
+  padding: 10px 40px;
+  text-align: end;
+  font-size: 17px;
+}

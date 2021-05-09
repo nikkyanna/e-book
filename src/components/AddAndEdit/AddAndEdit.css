@@ -1,0 +1,56 @@
+.page-title-container {
+  display: grid;
+  padding: 20px 50px 20px 20px;
+  grid-gap: 15px;
+}
+
+.page-title-container .page-title-header {
+  font-weight: 500;
+}
+
+.page-title-container .page-header-body {
+  padding: 10px;
+  border: 1px solid #d4d4d4;
+}
+
+.draft-container {
+  margin: 20px 50px 0px 20px;
+  border: 1px solid #d4d4d4;
+  height: 250px;
+  overflow-y: auto;
+  background-color: white;
+}
+
+.rdw-editor-toolbar {
+  border-bottom: 1px solid #d4d4d4 !important;
+}
+
+.button-container .button {
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+.page-button-conatiner {
+  display: flex;
+  float: right;
+  padding-right: 35px;
+  padding-bottom: 10px;
+}
+
+.rdw-editor-main {
+  padding: 0px 10px;
+  min-height: 150px;
+}
+
+.counter {
+  margin: 0px 50px 20px 20px;
+  text-align: end;
+  border: 1px solid #d4d4d4;
+  border-top: none;
+  padding: 3px 10px 3px 0px;
+  background-color: white;
+
+}

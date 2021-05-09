@@ -1,0 +1,16 @@
+.footer-container {
+  height: 80px;
+  background-color: #1976d2;
+  justify-content: center;
+  display: flex;
+}
+
+.image-icons {
+  height: 20px;
+  padding-left: 30px;
+  vertical-align: middle;
+}
+
+.footer-images-container {
+  align-self: center;
+}
